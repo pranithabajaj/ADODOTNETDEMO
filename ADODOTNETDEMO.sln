@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADODOTNETDEMO", "ADODOTNETDEMO\ADODOTNETDEMO.csproj", "{EAC59732-C134-43AC-91F0-08C6B05C547F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC59732-C134-43AC-91F0-08C6B05C547F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC59732-C134-43AC-91F0-08C6B05C547F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC59732-C134-43AC-91F0-08C6B05C547F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC59732-C134-43AC-91F0-08C6B05C547F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E1D562D-662E-4600-8391-72AB398C65DA}
+	EndGlobalSection
+EndGlobal
